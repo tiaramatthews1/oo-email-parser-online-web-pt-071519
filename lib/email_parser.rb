@@ -13,7 +13,7 @@ def initialize(csv_emails)
   end
 
 def parse 
-    
+    csv_email
   end 
 end 
   
