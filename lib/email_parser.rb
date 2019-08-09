@@ -13,7 +13,8 @@ def initialize(csv_emails)
   end
 
 def parse 
-    csv_emails.split.collect do ||
+    csv_emails.split.collect do |address|
+      
   end 
 end 
   
